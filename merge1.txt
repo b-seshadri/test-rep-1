@@ -1,1 +1,2 @@
-Merge text for merge1 file
+Merge text for merge1 file.
+The modified file text dumped into the AI scrutiny.
